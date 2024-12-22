@@ -13,4 +13,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bitanyaeshetu/Alx_BackendCapstone.git
+   git clone https://github.com/KidistHwz/Alx_BackendCapstone
